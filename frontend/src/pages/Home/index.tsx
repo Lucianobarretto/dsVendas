@@ -8,7 +8,7 @@ const Home = () => {
       <NavBar />
       <div className="container">
         <div className="jumbotron">
-          <h1 className="display-3">DSVendas</h1>
+          <h1 className="display-3">LBVendas</h1>
           <p className="lead">
             Analise o desempenho das suas vendas por diferentes perspectivas
           </p>
