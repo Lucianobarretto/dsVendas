@@ -25,9 +25,6 @@ O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação comple
 
 A aplicação foi desenvolvida na semana Spring React 4.0 da DevSuperior utilizando ReactJS para o front-end e Spring para o back-end.
 
-Acesse o App demonstração:
-- [Dashboard Sales](https://lb-vendas.netlify.app/)
-
 <br>
 <br>
 <br>
